@@ -1,0 +1,13 @@
+Resource link to get familiar with Git:
+https://learngitbranching.js.org/
+
+git commands learned in each level:
+
+git branch <name> – Creates a new branch with the given name.
+git checkout <name> – Switches to the specified branch in your project.
+git commit -m "<message>" – Saves the staged changes to the repository with a message.
+git merge <branch> – Integrates changes from the specified branch into the current branch.
+git clone <url> – Clones a remote repository to your local machine for the first time.
+git pull – Fetches and merges updates from the remote repository into your current branch.
+git fetch – Downloads updates from the remote repository without automatically merging them into your current branch.
+git push – Uploads your local changes to the remote repository.
